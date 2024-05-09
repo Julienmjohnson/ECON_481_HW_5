@@ -5,7 +5,7 @@ def github() -> str:
     This returns the link to the github repository for this assignment
     """
 
-    return "https://github.com/Julienmjohnson/ECON_481_HW_5/blob/main/HW_5.py"
+    return "https://github.com/Julienmjohnson/ECON_481_HW_5/blob/main/HW5.py"
 
 #Exercise 1
 import requests
